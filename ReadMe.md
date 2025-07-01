@@ -1,4 +1,4 @@
-<p align='center'><img src='./images/sysu.jpeg' width=60%></p>
+![image](https://github.com/user-attachments/assets/5b86f4d5-f2e1-4b4a-afd0-5eea38b98ec3)![image](https://github.com/user-attachments/assets/c6d8768d-9e72-41dd-bf17-fafa7f8e898c)<p align='center'><img src='./images/sysu.jpeg' width=60%></p>
 
 本项目分享了中山大学计算机学院的课程资料、笔记、回忆和整理的**期末考试**、**课程作业参考**、保研or夏令营**面试题**、**实验报告模版**以及**科研**或**企业求职**等等相关资料。本仓库为非营利、永久免费的开源项目，同学们可以自由取阅分享（如若方便，转发分享时请注明出处，感谢！）。希望对你们有所帮助❤️，如果喜欢希望能给个star🌟
 
@@ -81,6 +81,7 @@
 | 2024 秋  | [高级分布式系统](https://github.com/ysyisyourbrother/SYSU_Notebook/tree/master/%E8%AF%BE%E7%A8%8B%E8%B5%84%E6%96%99/%E9%AB%98%E7%BA%A7%E5%88%86%E5%B8%83%E5%BC%8F%E7%B3%BB%E7%BB%9F_cpf_2024) |  研究生  | 陈鹏飞                    | :green_book: |  :blue_book:  |  | :white_check_mark: |
 | 2024 秋  | [数字图像处理](https://github.com/ysyisyourbrother/SYSU_Notebook/tree/master/%E8%AF%BE%E7%A8%8B%E8%B5%84%E6%96%99/%E6%95%B0%E5%AD%97%E5%9B%BE%E5%83%8F%E5%A4%84%E7%90%86%EF%BC%88%E7%A0%94%E7%A9%B6%E7%94%9F%EF%BC%89) |  研究生  | 赖剑煌,张青                    |  |  :blue_book:  |  | |
 | 2024 秋  | [随机过程](https://github.com/ysyisyourbrother/SYSU_Notebook/tree/master/%E8%AF%BE%E7%A8%8B%E8%B5%84%E6%96%99/%E9%9A%8F%E6%9C%BA%E8%BF%87%E7%A8%8B) |  研究生  | 马啸,龚杰                    | :green_book: |  :blue_book:  |  | |
+| 2025 春  | [马克思主义与社会科学方法论](https://github.com/ysyisyourbrother/SYSU_Notebook/tree/master/%E8%AF%BE%E7%A8%8B%E8%B5%84%E6%96%99/%E9%A9%AC%E5%85%8B%E6%80%9D%E4%B8%BB%E4%B9%89%E4%B8%8E%E7%A4%BE%E4%BC%9A%E7%A7%91%E5%AD%A6%E6%96%B9%E6%B3%95%E8%AE%BA) |  研究生  | 吴育林                    |  |    |  | :white_check_mark: |
 
 注：即使是同一门课程，授课内容和考核方式也会因为授课时间和授课老师变化而改变。因此我们按照授课时间顺序对所有课程记录进行排序，同一门课程可能存在多条不同授课时间或老师的记录。
 
